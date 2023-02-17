@@ -12,7 +12,7 @@ import java.util.Scanner;
 import java.sql.PreparedStatement;
 
 
-public class Review5 {
+public class Review05 {
 
     public static void main(String[] args) {
         // TODO 自動生成されたメソッド・スタブ
